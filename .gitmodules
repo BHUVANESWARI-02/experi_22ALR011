@@ -1,3 +1,6 @@
 [submodule "22ALR011_EXP11"]
 	path = 22ALR011_EXP11
 	url = https://github.com/BHUVANESWARI-02/22ALR011_EXP11.git
+[submodule "subdir"]
+	path = subdir
+	url = ./subdir/
